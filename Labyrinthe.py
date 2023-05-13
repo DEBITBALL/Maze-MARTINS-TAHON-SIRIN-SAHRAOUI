@@ -1,6 +1,5 @@
 import random
 import datetime
-import numpy as np
  
 
 LARGEUR = input("Veuillez spécifier la largeur du labyrinthe.")  # Largeur du labyrinthe
