@@ -5,7 +5,6 @@
 
  - Exécutez le fichier **Labyrinthe.py**.
  - Renseignez la hauteur et la largeur du labyrinthe.
- - Vous aurez besoin de la librairie **numpy** que vous pouvez importer facilement: **pip install numpy**
 
 
 ## Aperçu d'un labyrinthe🔎
